@@ -5,6 +5,27 @@ import sys
 import whois
 import requests
 from datetime import datetime
+import pyfiglet
+
+def display_banner():
+    banner = pyfiglet.figlet_format("PhishDetect")
+    print(banner)
+    print("=" * 50)
+    print(" Welcome to PhishDetect - Your Phishing Scanner ")
+    print("=" * 50)
+
+def main_menu():
+    print("\n1. Scan a URL")
+    print("2. Scan an Email")
+    print("3. Exit")
+    choice = input("Enter your choice: ")
+    return choice
+
+# Example usage
+display_banner()
+user_choice = main_menu()
+print(f"You selected option {user_choice}.")
+
 
 # List of known phishing keywords
 PHISHING_KEYWORDS = ["login", "verify", "secure", "bank", "update", "paypal", "account", "password", "confirm", "alert", "billing", "invoice", "suspicious",
