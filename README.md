@@ -38,8 +38,8 @@ PhishDetect is a command-line phishing detection tool that analyzes URLs and ema
 ## Installation:
  ** You can install the tool simply by running this command in your terminal:
 
-   **Linux & macOS:**
-    `git clone [https://github.com/yourusername/PhishDetect.git](https://github.com/belalmostafaaa/Phishdetect.git)` <br>
+   **Linux & macOS:** <br>
+    `git clone https://github.com/belalmostafaaa/Phishdetect.git` <br>
     `cd PhishDetect` <br>
     `pip install -r requirements.txt` <br>
     `chmod +x phishdetect.py` <br>
