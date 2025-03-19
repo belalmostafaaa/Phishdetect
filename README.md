@@ -21,7 +21,7 @@ PhishDetect is a command-line phishing detection tool that analyzes URLs and ema
   If they are not installed, you can install them by:
 
   **Linux**:
-    `sudo apt intall python3 python3-pip`
+    `sudo apt intall python3 python3-pip` <br>
     `pip3 install requests python-whois`
 
 
