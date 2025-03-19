@@ -1,4 +1,4 @@
-# PhishDetect, a URL & Email phishin Detection Tool
+# PhishDetect, a URL & Email phishing Detection Tool
 
 PhishDetect is a command-line phishing detection tool that analyzes URLs and email text to detect malicious links. It uses **regex-based URL analysis,** domain reputation checks, WHOIS lookup, TLD verification, Google Safe Browsing API, and more** to identify potential phishing attempts.
 
