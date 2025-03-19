@@ -22,17 +22,20 @@ PhishDetect is a command-line phishing detection tool that analyzes URLs and ema
 
   **Linux**: <br>
     `sudo apt intall python3 python3-pip` <br>
-    `pip3 install requests python-whois`
+    `pip3 install requests python-whois` <br>
+    `pip install pyfiglet`
 
 
   **macOs**: <br>
     `brew install python3` <br>
-    `pip3 install requests python-whois`
+    `pip3 install requests python-whois` <br>
+    `pip install pyfiglet`
 
 
   **Windows**: <br>
     Download Python from [python.org](url) and install it. <br>
-      (Make sure to add the file in the System Path)
+      (Make sure to add the file in the System Path) <br>
+    `pip install pyfiglet`
 
 
 ## Installation:
