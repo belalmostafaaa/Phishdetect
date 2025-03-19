@@ -44,3 +44,9 @@ PhishDetect is a command-line phishing detection tool that analyzes URLs and ema
     `pip install -r requirements.txt` <br>
     `chmod +x phishdetect.py` <br>
     `python3 phishdetect.py <url> or python phishdetect.py <url> or ./phishdetect.py <url>` <br>
+
+  **Windows:** <br>
+   `git clone https://github.com/belalmostafaaa/Phishdetect.git` <br>
+    `cd PhishDetect` <br>
+    `pip install -r requirements.txt` <br>
+    `python3 phishdetect.py <url> or python phishdetect.py <url>`
