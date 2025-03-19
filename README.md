@@ -11,7 +11,7 @@ PhishDetect is a command-line phishing detection tool that analyzes URLs and ema
 ✔️ **Detect URL shorteners** (bit.ly, tinyurl, etc.)  
 ✔️ **Google Safe Browsing API check**  
 ✔️ **Analyze WHOIS Email** to check domain registration details
-
+✔️ **Excutable in Linux, Windows, and macOS**
 
 ## Set up:
 ** Make Sure that Python & pip are installed on your system
