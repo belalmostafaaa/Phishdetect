@@ -7,7 +7,11 @@ import requests
 from datetime import datetime
 
 # List of known phishing keywords
-PHISHING_KEYWORDS = ["login", "verify", "secure", "bank", "update", "paypal", "account", "password", "confirm", "alert"]
+PHISHING_KEYWORDS = ["login", "verify", "secure", "bank", "update", "paypal", "account", "password", "confirm", "alert", "billing", "invoice", "suspicious",
+    "security", "auth", "authentication", "reset", "deactivate", "warning",
+    "locked", "unusual activity", "support", "restricted", "reactivate",
+    "session", "personal info", "credential", "access", "restore",
+    "validate", "payment", "checkout", "fraud", "identity", "urgent"]
 
 # Suspicious Top-Level Domains (TLDs)
 SUSPICIOUS_TLDS = [".xyz", ".tk", ".gq", ".cf", ".ml"]
