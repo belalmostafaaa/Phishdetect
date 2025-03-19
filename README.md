@@ -20,18 +20,18 @@ PhishDetect is a command-line phishing detection tool that analyzes URLs and ema
 
   If they are not installed, you can install them by:
 
-  **Linux**:
+  **Linux**: <br>
     `sudo apt intall python3 python3-pip` <br>
     `pip3 install requests python-whois`
 
 
-  **macOs**:
-    `brew install python3`
+  **macOs**: <br>
+    `brew install python3` <br>
     `pip3 install requests python-whois`
 
 
-  **Windows**:
-    Download Python from [python.org](url) and install it.
+  **Windows**: <br>
+    Download Python from [python.org](url) and install it. <br>
       (Make sure to add the file in the System Path)
 
 
@@ -39,8 +39,8 @@ PhishDetect is a command-line phishing detection tool that analyzes URLs and ema
  ** You can install the tool simply by running this command in your terminal:
 
    **Linux & macOS:**
-    `git clone [https://github.com/yourusername/PhishDetect.git](https://github.com/belalmostafaaa/Phishdetect.git)`
-    `cd PhishDetect`
-    `pip install -r requirements.txt`
-    `chmod +x phishdetect.py`
-    `python3 phishdetect.py <url> or python phishdetect.py <url> or ./phishdetect.py <url>`
+    `git clone [https://github.com/yourusername/PhishDetect.git](https://github.com/belalmostafaaa/Phishdetect.git)` <br>
+    `cd PhishDetect` <br>
+    `pip install -r requirements.txt` <br>
+    `chmod +x phishdetect.py` <br>
+    `python3 phishdetect.py <url> or python phishdetect.py <url> or ./phishdetect.py <url>` <br>
